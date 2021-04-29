@@ -1,0 +1,6 @@
+pt-BR:
+  helpers:
+    submit:
+      user:
+        create: 'Cadastrar'
+        update: 'Atualizar perfil'
