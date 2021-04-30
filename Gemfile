@@ -35,6 +35,7 @@ group :development, :test do
   gem 'rexml', '~> 3.2', '>= 3.2.4'
   gem 'pry-meta'
   gem 'pry-rails'
+  gem 'factory_bot_rails'
 end
 
 group :development do
