@@ -3,6 +3,8 @@ Rails.application.routes.draw do
 
   resources :users, only: [:new, :create]
 
+  resources :ads, only: [:new, :create]
+
   #login
   resources :sessions, only: [:new, :create] do
     collection do
